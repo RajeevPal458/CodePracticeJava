@@ -6,6 +6,7 @@ public class FactorialTest {
 		int fact = getFactorial(5);
 		System.out.println("factorial of 5 is:"+fact);
 		System.out.println("factorial of 5 is:"+fact);
+		System.out.println("factorial of 5 is:"+fact);
 		
 	}
 	
